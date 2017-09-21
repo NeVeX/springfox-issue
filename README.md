@@ -3,6 +3,8 @@ Showing a swagger issue with SpringFox
 
 ### Issue
 
+[SpringFox issue created for this](https://github.com/springfox/springfox/issues/2044)
+
 I have a simple controller that maps to the context root `/swagger/{message}` with a `PathVariable`.
  
 However, the `/swagger/swagger-ui.html` cannot render the page, it shows a `406` white label error instead:
