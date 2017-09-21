@@ -1,0 +1,2 @@
+server.contextPath: /swagger
+springfox.documentation.swagger.v2.path: /api-docs
